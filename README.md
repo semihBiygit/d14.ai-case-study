@@ -1,11 +1,5 @@
-Citizen Management System
-
-=========================
-
-Backend
-
--------
-
+# Citizen Management System
+## Backend
 ### Usage
 
 1\.  Clone the repository
@@ -40,10 +34,7 @@ Backend
 
 -   `DELETE /api/citizen/delete-citizen/{id}`: Delete a citizen
 
-Frontend
-
---------
-
+## Frontend
 ### Usage
 
 1\.  Go to the frontend directory
