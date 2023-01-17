@@ -8,11 +8,15 @@
 
 2\.  Go to the backend directory
 
-3\.  Build the project
+3\.  Edit your Postgres username and password in application.yml
+
+4\.  Create DB on Postgres 
+
+5\.  Build the project
 
 `gradle build`
 
-4\.  Run the project
+6\.  Run the project
 
 `gradle bootRun`
 
